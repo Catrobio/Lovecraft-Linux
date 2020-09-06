@@ -1,6 +1,6 @@
 # Lovecraf-Linux
 
-<img src="https://raw.githubusercontent.com/CatrobioLovecraft-Linux/blob/master/Lovecraft-images/Lovecraft-logo.png" />
+<img src="https://raw.githubusercontent.com/CatrobioLovecraft-Linux/master/Lovecraft-images/Lovecraft-logo.png" />
 
 _Lovecraft para Linux - Postgresql_
 
